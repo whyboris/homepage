@@ -7,3 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [markup.goldmark]
     [markup.goldmark.renderer]
         unsafe = true
+[Params]
+  images = ["img/social.png"]
+  production = true
+  description = "Personal website of Boris Yakubchik"
