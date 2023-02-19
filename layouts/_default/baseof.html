@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ block "all-head" . }}{{ partial "head.html" . }}{{ end }}
+  </head>
+
+  <body>
+
+    <div class="layout-container">
+
+      <div class="site-title">
+        <a aria-current="page" class="" href="/">Boris Yakubchik</a>
+      </div>
+
+      <div class="header-container">
+
+        {{ partial "site-navigation.html" . }}
+      
+      </div>
+
+      <div class="article-container">
+        <main role="main">
+          {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+    
+    </div>
+
+  </body>
+</html>
