@@ -2,7 +2,7 @@ baseURL = 'https://yboris.com/'
 googleAnalytics = "G-GMST2VER92"
 languageCode = 'en-us'
 title = 'Boris Yakubchik'
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
