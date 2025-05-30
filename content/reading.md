@@ -8,8 +8,9 @@ id: 150
 
 _not in any particular order_
 
-## Life:
+## Life
 
+- Practical Ethics _Peter Singer_
 - The Most Good You Can Do
 - Animal Liberation
 - How Are We To Live
@@ -21,7 +22,7 @@ _not in any particular order_
 - The Elements of Moral Philosophy
 - Problems from Philosophy
 - Why Buddhism is True
-- Change of Heart *Nick Cooney*
+- Change of Heart _Nick Cooney_
 - Poor Economics
 - Happy Money
 - Algorithms to Live By
@@ -29,7 +30,7 @@ _not in any particular order_
 - Sum: Forty Tales from the Afterlives
 - Lying _Sam Harris_
 
-## Personal:
+## Personal
 
 - How to Win Friends and Influence People
 - Difficult Conversations
@@ -38,19 +39,27 @@ _not in any particular order_
 - The Charisma Myth
 - Give and Take
 
-## Productivity:
+## Productivity
 
 - Getting Things Done
 - Eat That Frog!
 
-## General:
+## Understanding the world
 
+- Guns, Germs, and Steel
+- Sapiens
+- The WEIRDest People in the World
+- The Dawn of Everything
+- Better Angels of our Nature
+- The Precipice
+
+## General
+
+- Moral Tribes
 - Mindware: Tools for Smart Thinking
 - Everything is Obvious
 - The Righteous Mind
 - A People’s History of the United States
-- Better Angels of our Nature
-- Guns, Germs, and Steel
 - A Short History of Nearly Everything
 - The Selfish Gene
 - A History of Western Philosophy
@@ -61,11 +70,10 @@ _not in any particular order_
 - Blink
 - The Tipping Point
 - Home: A Short History of Private Life
-- Moral Tribes
-- The Precipice
 
-## Psychology:
+## Psychology
 
+- The Person and the Situation
 - Thinking, Fast and Slow
 - Strangers to Ourselves
 - Stumbling on Happiness
@@ -83,10 +91,10 @@ _not in any particular order_
 - The Happiness Hypothesis
 - Culture of Honor
 - The Brighter Side of Human Nature
-- The Person and the Situation
+- The Geography of Thought
 - Redirect
 
-## Math:
+## Math
 
 - Flatland
 - How to Lie with Statistics
@@ -95,7 +103,7 @@ _not in any particular order_
 - How to Solve It
 - Gödel, Escher, Bach
 
-## School:
+## School
 
 - The Homework Myth
 - No Contest
@@ -105,13 +113,13 @@ _not in any particular order_
 - What Intelligence Tests Miss
 - Why Don’t Students Like School
 
-## Science Fiction:
+## Science Fiction
 
 - Accelerando
 - Manna: Two Visions of Humanity’s Future
 - Daemon &amp; Freedom<sup>TM</sup>
 
-## Fiction:
+## Fiction
 
 - The Rosie Project
 - One Day in the Life of Ivan Denisovich
@@ -122,27 +130,27 @@ _not in any particular order_
 - The Hitchhiker’s Guide to the Galaxy
 - Catch-22
 
-## Wikipedia:
+## Wikipedia
 
 - [Positive Psychology](http://en.wikipedia.org/wiki/Positive_psychology)
 - [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 - [Hedonic Treadmill](http://en.wikipedia.org/wiki/Hedonic_treadmill)
 - [List of Cognitive Biases](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
-## Blogs:
+## Blogs
 
 - [80,000 Hours](http://80000hours.org/blog)
 - [GiveWell](http://blog.givewell.org/)
 - [Study Hacks](http://calnewport.com/blog/)
 
-## Articles:
+## Articles
 
 - [The Singer Solution to World Poverty](http://www.utilitarian.net/singer/by/19990905.htm)
 - [Famine, Affluence, and Morality](http://www.utilitarian.net/singer/by/1972----.htm)
 - [Against the Common-Sense View of Ethical Careers](http://oxford.academia.edu/WilliamCrouch/Papers/1621500/Against_the_Common-Sense_View_of_Ethical_Careers)
 - [If money doesn’t make you happy, then you probably aren’t spending it right](http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&%20WILSON%20(2011).pdf)
 
-## TED.com:
+## TED.com
 
 - [Dan Gilbert on our mistaken expectations](http://www.ted.com/talks/lang/en/dan_gilbert_researches_happiness.html)
 - [Mike Dickson – What is enough?](http://tedxtalks.ted.com/video/TEDxExeter-Mike-Dickson-What-is)
@@ -159,7 +167,7 @@ _not in any particular order_
 - [Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts.html)
 - [Dan Dennett on dangerous memes](http://www.ted.com/talks/dan_dennett_on_dangerous_memes.html)
 
-## Other:
+## Other
 
 - [RadioLab podcasts](http://www.radiolab.org/)
 - [Free online college courses 1](https://www.edx.org/)
