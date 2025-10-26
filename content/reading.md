@@ -29,6 +29,7 @@ _not in any particular order_
 - Strangers Drowning
 - Sum: Forty Tales from the Afterlives
 - Lying _Sam Harris_
+- Come as you Are
 
 ## Personal
 
@@ -54,6 +55,8 @@ _not in any particular order_
 - Better Angels of our Nature
 - The Precipice
 - Seeing Like a State
+- Sapiens
+- Utopia for Realists
 
 ## General
 
@@ -72,6 +75,7 @@ _not in any particular order_
 - Blink
 - The Tipping Point
 - Home: A Short History of Private Life
+- Practical Anarchism: A Guide for Daily Life
 
 ## Psychology
 
@@ -120,6 +124,7 @@ _not in any particular order_
 - Accelerando
 - Manna: Two Visions of Humanity’s Future
 - Daemon &amp; Freedom<sup>TM</sup>
+- Project Hail Mary
 
 ## Fiction
 
