@@ -33,6 +33,7 @@ _not in any particular order_
 
 ## Personal
 
+- Atomic Habits
 - How to Win Friends and Influence People
 - Difficult Conversations
 - The How of Happiness
